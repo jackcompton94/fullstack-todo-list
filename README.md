@@ -1,8 +1,6 @@
 # fullstack-todo-list
 end-to-end React, Flask, and BigQuery todo list
 
-
- 
 ## Purpose
 The primary goal of this project was not just to build a to-do list application, but rather to gain a deep understanding of how web applications are designed and function across the entire technology stack. I aimed to explore and implement the following:
 
@@ -23,3 +21,5 @@ The primary goal of this project was not just to build a to-do list application,
 - Creating, editing, and deleting to-do list items.
 - Storing user data securely in BigQuery.
 - Responsive design for a seamless user experience on different devices.
+
+<img src="https://github.com/jackcompton94/fullstack-todo-list/blob/main/login.png" alt="Login Screen" width="400"> <img src="https://github.com/jackcompton94/fullstack-todo-list/blob/main/main.png" alt="Main Screen" width="400">
